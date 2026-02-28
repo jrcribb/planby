@@ -17,9 +17,8 @@
  <a href="https://opencollective.com/planby#sponsor"  target="_blank"><img src="https://img.shields.io/badge/Support%20us-Open%20Collective-41B883.svg" alt="Support us"></a>
 </div>
 
-# 🔥 An exclusive new experience — React Native support is on its way to Planby! 🔥
+# 🔥 React Native: Planby Native Beta is now available for free testing 🔥 👉[Click here to sign up](https://planby.app/planby-native-beta) 👈
 
-## React Native: To request beta access, email us at contact@planby.app with your position and company name.
 
 ## Description
 
